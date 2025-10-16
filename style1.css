@@ -1,0 +1,27 @@
+header{
+    height: 80px;
+    background-color: rgb(3, 8, 8);
+    display:flex;
+
+}
+li{
+    color: white;
+    list-style-type: none;
+    padding-left: 20px;
+}
+ul{
+    padding: 20px 50px;
+    margin: 0px;
+    display:flex;
+    justify-content:center ;
+}
+body{
+    margin:0px;
+}
+header img{
+    height: 80px;
+    width: 80px;
+}
+.logo-ls{
+    padding-left: 20px;
+}
